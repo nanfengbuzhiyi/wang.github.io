@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ text-decoration:none; color:#000}
+html{ background:#b9cbd5}
+body{ width:1000px; margin:0px auto; line-height:21px; background:#fff; }
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{ font-size:36px; font-weight:bold; color:#fff;}
+.banner{ position:relative}
+.banner img{ display:block}
+.head{ background:#669999; padding:0px 0; text-align:center}
+.menu{ background:#669999;  width:100%; height:45px; text-align:center; float:left; }
+.menu li a{ color:#fff}
+.menu li { text-align:center;display:inline-block; padding:5px 0px ; font-size:21px; width:20%; float:left}
+
+.right{ float:right; width:660px; padding:20px}
+.left{ min-height:300px; float:left; width:260px; padding:20px}
+.content{ background:#fff8f1; font-size:14px; display:inline-block ; width:100%}
+.index{ clear:both; padding:30px 0; border-bottom:#669999 dotted 2px}
+.end{ clear:both; background:#669999; color:#fff; padding:20px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px 70px; display:block}
+.pics p{ margin:20px; text-align:center}
+.inp{ border:#ccc solid 1px ; padding:10px 10px; width:100%}
+.main{ margin:20px 70px}
+.www{ width:470px; float:left}
+.www p{ padding-bottom:10px; margin-top:10px; font-size:16px}
+
+.index img{ margin-right:50px}
+.index  h3{ color:#669999; font-size:16px;margin-bottom:20px}
+.index .fr{ margin-right:0; margin-left:50px}
+.imglist{  margin:0 auto}
+.imglist li{ float:left; width:450px; margin:25px ; text-align:center}
+
+.more{ color:#CC0000; display:inline-block; margin-top:15px}
+.news li{ padding:5px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+.fl{ float:left}.fr{ float:right}
+
+.msg>div{ padding:10px}
+
+.bar{ border:#000 solid 1px; margin:20px 70px; font-weight:bold; padding:5px}
